@@ -1,0 +1,33 @@
+
+
+/*  menu   */
+.drop-chiken { 
+    background-color: #82caff;
+    text-align: center;
+}
+.drop-Beef { 
+    background-color: #32CD32;
+    text-align: center;
+}
+.drop-Sushi { 
+    background-color: #FFB6C1;
+    text-align: center;
+}
+.header2{
+	padding:0;
+}
+.div-border {
+	clear:both;
+ min-width: 50px;
+	border: 1px solid;
+	background: grey;
+ 	vertical-align:middle;
+
+}
+
+#ChikenContainer{
+	padding: 40px;
+}
+
+
+
